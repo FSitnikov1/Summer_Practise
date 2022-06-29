@@ -1,0 +1,13 @@
+C:\Users\mrpri\OneDrive\Рабочий стол\Client\Client\Client\bin\Debug\Client.exe.config
+C:\Users\mrpri\OneDrive\Рабочий стол\Client\Client\Client\bin\Debug\Client.exe
+C:\Users\mrpri\OneDrive\Рабочий стол\Client\Client\Client\bin\Debug\Client.pdb
+C:\Users\mrpri\OneDrive\Рабочий стол\Client\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\mrpri\OneDrive\Рабочий стол\Client\Client\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\mrpri\OneDrive\Рабочий стол\Client\Client\Client\obj\Debug\Client.Chat.resources
+C:\Users\mrpri\OneDrive\Рабочий стол\Client\Client\Client\obj\Debug\Client.Messanger.resources
+C:\Users\mrpri\OneDrive\Рабочий стол\Client\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\mrpri\OneDrive\Рабочий стол\Client\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\mrpri\OneDrive\Рабочий стол\Client\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\mrpri\OneDrive\Рабочий стол\Client\Client\Client\obj\Debug\Client.exe
+C:\Users\mrpri\OneDrive\Рабочий стол\Client\Client\Client\obj\Debug\Client.pdb
+C:\Users\mrpri\OneDrive\Рабочий стол\Client\Client\Client\obj\Debug\Client.Notification.resources
